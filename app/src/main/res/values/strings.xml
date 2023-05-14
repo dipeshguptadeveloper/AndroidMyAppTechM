@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAppTechM</string>
+    <string name="termCon">T&#38;C</string>
+    <string name="by_signing_up_you_re_agreed_to_our">By Signing Up, you\'re agreed to our</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signupimage">signUpImage</string>
+    <string name="btnContinue">Continue</string>
+    <string name="login"><u>Login</u></string>
+    <string name="joined_us_before">Joined us before?</string>
+    <string name="sign_in_image">sign_in_image</string>
+    <string name="sign_in">Sign In</string>
+    <string name="btnLogin">Login</string>
+</resources>
